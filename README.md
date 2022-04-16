@@ -7,7 +7,7 @@ This was an assignment for MIT's Professional Certificate in Coding: Full Stack 
 To run this program
 - download the JavaScript, HTML and CSS files.
 - downloand the folder with the Pac Man pictures in it and keep it in the same directory as   the other files
-- I wrote, tested and ran the program using VS Code
+- I wrote, tested and ran the program using Microsoft VS Code
 
 # Road Map
 
