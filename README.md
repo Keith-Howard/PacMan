@@ -1,5 +1,5 @@
 # PacMan
-<img src="pacman1.png" width='300'/>
+<img src="images/pacman1.png" width='300'/>
 
 This was an assignment for MIT's Professional Certificate in Coding: Full Stack Developmen with MERN. The Majority of the code was provided. I had to write a function that would detect when the Pack Man hit a wall. My Function took into accoun the Pac Man's size and the size of the window and made boundaries and then changed the direction for when the Pac Man hit a boundary.
 
